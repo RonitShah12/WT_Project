@@ -1,0 +1,13 @@
+REDIRECT Redirect.asp
+WIDTH 440
+HEIGHT 60
+BORDER 1
+*
+lion2.jpg
+Lion.asp
+Lion
+20
+hornbil2.jpg
+hornbill.asp
+Hornbill
+20
